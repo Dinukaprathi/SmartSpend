@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors -->
+    <color name="primary_blue">#2196F3</color>
+    <color name="primary_blue_light">#E3F2FD</color>
+    <color name="primary_blue_dark">#1A237E</color>
+    <color name="dark_orange">#FF6B00</color>
+    <color name="light_orange">#FFA559</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_hint">#BDBDBD</color>
+
+    <!-- Background Colors -->
+    <color name="background_light">#FFFFFF</color>
+    <color name="background_white">#FFFFFF</color>
+    <color name="background_blue_light">#E3F2FD</color>
+    <color name="background_dark">#121212</color>
+
+    <!-- Status Colors -->
+    <color name="success_green">#4CAF50</color>
+    <color name="error_red">#F44336</color>
+    <color name="warning_yellow">#FFC107</color>
+
+    <!-- Transaction Colors -->
+    <color name="income_color">#4CAF50</color>
+    <color name="expense_color">#F44336</color>
+    <color name="income_green">#4CAF50</color>
+    <color name="expense_red">#F44336</color>
+
+    <!-- Common Colors -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="medium_gray">#E0E0E0</color>
+    <color name="dark_gray">#757575</color>
+
+    <!-- Gradient Colors -->
+    <color name="gradient_blue_start">#004B93</color>
+    <color name="gradient_blue_end">#0277BD</color>
+    <color name="gradient_orange_start">#FF6B00</color>
+    <color name="gradient_orange_end">#FF9800</color>
+
+    <color name="ic_launcher_background">#004B93</color>
+    <color name="smartspend_blue">#004B93</color>
+    <color name="smartspend_orange">#FF8C00</color>
+
+    <color name="warning_background">#FFF3E0</color>
+    <color name="warning_text">#E65100</color>
+
+    <!-- Navigation Colors -->
+    <color name="nav_icon_color">#000000</color>
+
+    <color name="green">#4CAF50</color>
+    <color name="red">#F44336</color>
+</resources>

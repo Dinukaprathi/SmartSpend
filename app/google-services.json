@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944274238299",
+    "project_id": "transaction-tracker-693a7",
+    "storage_bucket": "transaction-tracker-693a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944274238299:android:e0b64dd719248a8be6087e",
+        "android_client_info": {
+          "package_name": "com.example.tracsactiontracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX22zY1uIvG93BPE-JQf4fIROI2nUoI6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

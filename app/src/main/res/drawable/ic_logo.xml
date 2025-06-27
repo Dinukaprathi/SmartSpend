@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="100dp"
+    android:viewportWidth="1200"
+    android:viewportHeight="600">
+    
+    <!-- Background -->
+    <path
+        android:fillColor="#004B93"
+        android:pathData="M0,0h1200v600h-1200z"/>
+    
+    <!-- Orange curved lines symbol -->
+    <path
+        android:fillColor="#FF8C00"
+        android:pathData="M300,150 C350,150 400,200 400,250 C400,300 350,350 300,350 C250,350 200,300 200,250 C200,200 250,150 300,150 Z
+                         M320,170 C360,170 400,210 400,250 C400,290 360,330 320,330 C280,330 240,290 240,250 C240,210 280,170 320,170 Z
+                         M340,190 C370,190 400,220 400,250 C400,280 370,310 340,310 C310,310 280,280 280,250 C280,220 310,190 340,190 Z"/>
+    
+    <!-- SmartSpend text -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M450,250 L1000,250"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"/>
+</vector> 
